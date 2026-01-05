@@ -27,4 +27,8 @@ Information_Retrieval_Sem-6/
 
 ├── Prac_3.ipynb
 
-└── Prac_4.ipynb
+├── Prac_4.ipynb
+
+├── Prac_5.ipynb
+
+└── Prac_6.ipynb
